@@ -1,0 +1,10 @@
+Makefile
+obj/
+debug/
+release/
+*.make
+*.swp
+*~
+__pycache__/
+*.py
+

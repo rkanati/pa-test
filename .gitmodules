@@ -1,0 +1,3 @@
+[submodule "rk-core"]
+	path = rk-core
+	url = http://github.com/halfbin/rk-core.git
